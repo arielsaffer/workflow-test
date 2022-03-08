@@ -1,7 +1,7 @@
 # Using dominate package 
 
 import dominate
-from dominate.tags import *
+import dominate.tags as tags
 
 doc = dominate.document(title='This is a page')
 
